@@ -34,7 +34,7 @@ Its core focus is alleviating poverty by offering a fair manageable interest rat
 - Ensures borrowers stay informed with timely updates on repayment schedules.
 
 ## Sustainable Development Goals
-SakloLoan is aligned with SDG 12: No Poverty, which addresses the financial barriers that keep individuals in cycles of economiv insecurity.
+SakloLoan is aligned with SDG 1: No Poverty, which addresses the financial barriers that keep individuals in cycles of economiv insecurity.
 
 🎯 How SakloLoan Supports SDG 1:
 - Provides immediate acces to funds during emergencies.
