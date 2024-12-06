@@ -20,12 +20,15 @@ Its core focus is alleviating poverty by offering a fair manageable interest rat
 🏦 Loan Application
 - Apply for a loan by selecting one of five specialized loan types tailored to individual needs.
 - View detailed loan information, including repayment terms, interest rates, and monthly payments.
+  
 📊 Loan Interest Calculator
 - Estimates total repayment and monthly payments.
 - Adjusts interest rates dynamically based on the borrower’s income for fairness and inclusivity.
+  
 📄 Loan Status Tracking
 - Provides real-time updates on loan approvals.
 - Displays essential loan details such as type, balance, and due dates.
+  
 💳 Repayment Management
 - Tracks loan repayment progress with detailed breakdowns of remaining balance and due amounts.
 - Ensures borrowers stay informed with timely updates on repayment schedules.
