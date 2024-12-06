@@ -32,3 +32,13 @@ Its core focus is alleviating poverty by offering a fair manageable interest rat
 💳 Repayment Management
 - Tracks loan repayment progress with detailed breakdowns of remaining balance and due amounts.
 - Ensures borrowers stay informed with timely updates on repayment schedules.
+
+## Sustainable Development Goals
+SakloLoan is aligned with SDG 12: No Poverty, which addresses the financial barriers that keep individuals in cycles of economiv insecurity.
+
+🎯 How SakloLoan Supports SDG 1:
+- Provides immediate acces to funds during emergencies.
+- Offers income-based interest rates to ensure affordability for low-income borrowers.
+- Enables a flexible repayment schedulesm and reduces the buuurden of rigid financial commitments.
+
+By focusing on emergency financial spport, SakloLoan contributes to reducing poverty and empowers individuals to regain control on their own economic well-being.
