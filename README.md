@@ -6,7 +6,7 @@ A specialized emergency loan service designed to help indiviuals to access quick
 
 SakloLoan simplifies the process of a typical loan applications, interest calculations, and repayment tracking. May it be dealing with unexpected expenses or juust needing financial support for your long term needs, this system offers tailored solutions to ensuere users can achiooeve financial security with a good transparancy and ease.
 
-##SakloLoan's system funtionalities includews multiple loan options, such as:
+SakloLoan's system funtionalities includews multiple loan options, such as:
 
 - Business Loans
 - Education Loans
